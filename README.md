@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Final-year **Computer Science and Engineering** student at Kongu Engineering College  
+- 🎓 Third-year **Computer Science and Engineering** student at Kongu Engineering College  
 - 🌱 Exploring **Web Development, Backend Systems, and AI**  
 - 💡 Passionate about building **real-world impactful projects**  
 - ⚡ Fun fact: I mix tech + creativity (Blender & Video Editing enthusiast 😎)  
@@ -49,17 +49,11 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats  
+## 📊 LeetCode Stats  
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/KALANITHI_M?ext=contest&theme=dark" alt="LeetCode Stats"/>
-  </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/KALANITHI_M?theme=forest&font=Slabo%2027px)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KALANITHI-M&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+
 
 ---
 
