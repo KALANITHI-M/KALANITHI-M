@@ -61,6 +61,6 @@
 
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kalanithi-m-597a72298/)  
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kalanithi_kbd)  
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/19w1EoGJkmSJ6qH5X1WVB7v4LGjGeA_PR/view?usp=sharing)  
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://cdex.netlify.app/)  
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://www.onlinegdb.com/rFB7yLfbO)  
 
